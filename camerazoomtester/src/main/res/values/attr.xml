@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CameraType">
+        <attr name="camera_type" format="enum">
+            <enum name="back" value="0" />
+            <enum name="face" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>
